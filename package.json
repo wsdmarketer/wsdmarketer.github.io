@@ -1,0 +1,34 @@
+{
+  "name": "wsdmarketer.github.io",
+  "version": "1.0.0",
+  "description": "wsdmarketer is a Full Stack Digital Marketing Expert who can help you to Rank your Business on Goolge SERP",
+  "main": "index.js",
+  "scripts": {
+    "scss": "sass style.scss style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wsdmarketer/wsdmarketer.github.io.git"
+  },
+  "keywords": [
+    "wsdmarketer",
+    "waseemsaleem",
+    "digital",
+    "marketer",
+    "seo",
+    "expert",
+    "digital",
+    "marketing",
+    "expert",
+    "app",
+    "store",
+    "optimization",
+    "epxert"
+  ],
+  "author": "wsdmarketer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wsdmarketer/wsdmarketer.github.io/issues"
+  },
+  "homepage": "https://github.com/wsdmarketer/wsdmarketer.github.io#readme"
+}

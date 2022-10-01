@@ -1,0 +1,4 @@
+# ignore ALL .scss
+*.scss
+# ignore ALL .map
+*.map
