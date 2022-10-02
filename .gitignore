@@ -2,3 +2,6 @@
 *.scss
 # ignore ALL .map
 *.map
+
+# ignore ALL scss
+/scss
